@@ -6,6 +6,6 @@ Monorepo para practicar HTML y CSS.
 
 ## Apps
 
-1.
+1. [Página de recetas](https://)
 
 <h3 align="center">< seandsun /></h3>

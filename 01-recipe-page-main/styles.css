@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400 600 700;
+  font-display: swap;
+  src: url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'Young Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./assets/fonts/young-serif/YoungSerif-Regular.ttf')
+    format('truetype');
+}
+:root {
+  --White: hsl(0, 0%, 100%);
+  --Stone-100: hsl(31, 53%, 90%);
+  --Stone-150: hsl(30, 18%, 87%);
+  --Stone-600: hsl(30, 10%, 34%);
+  --Stone-900: hsl(24, 5%, 18%);
+  --Brown-800: hsl(14, 45%, 36%);
+  --Rose-800: hsl(332, 51%, 32%);
+  --Rose-50: hsl(330, 100%, 98%);
+
+  --font-outfit: 'Outfit';
+  --font-young-serif: 'Young Serif';
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: var(--font-outfit);
+  background-color: var(--Stone-100);
+  line-height: 24px;
+}
+main {
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+  background-color: var(--White);
+}
+h1,
+h2 {
+  font-family: var(--font-young-serif);
+}
+main img {
+  width: 100%;
+}
+.container {
+  padding: 0 2rem;
+}
+h1 {
+  padding: 2rem 0;
+  font-size: 2.2rem;
+  line-height: 2.2rem;
+  font-weight: 400;
+  color: var(--Stone-900);
+}
+h2 {
+  padding: 2rem 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: var(--Brown-800);
+}
+p {
+  font-size: 0.9795rem;
+  color: var(--Stone-600);
+}
+.section-hero {
+  margin-bottom: 2rem;
+}
+.section-preparation {
+  background-color: var(--Rose-50);
+  border-radius: 8px;
+  padding: 1.5rem 1.5rem 0.5rem 1.5rem;
+}
+.section-preparation h3 {
+  color: var(--Rose-800);
+  padding-bottom: 1rem;
+  font-size: 19px;
+}
+.list ul {
+  color: var(--Rose-800);
+}
+.list ul li {
+  margin-bottom: 1rem;
+}
+.list ul li p {
+  color: var(--Stone-600);
+}
+.list-one ul {
+  list-style: none;
+  padding: 0 1rem 0 0.5rem;
+}
+.list-one ul li {
+  display: flex;
+  align-items: center;
+}
+.list-one li::before {
+  content: '•';
+  margin-right: 1.375rem;
+  font-size: 1.2em;
+  line-height: 1;
+}
+.section-preparation ul li span {
+  font-weight: 600;
+}
+.section-instructions ul li {
+  padding-left: 18px;
+}
+.section-instructions ul li span {
+  font-weight: 600;
+}
+.section-instructions ul {
+  list-style-type: decimal;
+  padding: 0 1rem 0 1.5rem;
+}
+.section-instructions ul li::marker {
+  font-weight: 700;
+}
+.border {
+  border-bottom: 1px solid var(--Stone-150);
+  padding-bottom: 1rem;
+}
+.section-nutrition p {
+  margin-bottom: 1rem;
+}
+.section-nutrition table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.section-nutrition table tr {
+  border-bottom: 1px solid var(--Stone-150);
+  color: var(--Stone-600);
+}
+.section-nutrition table tr td {
+  padding: 1rem;
+}
+.section-nutrition table tr:nth-child(4) {
+  border-bottom: 0;
+}
+.section-nutrition table tr td:last-child {
+  color: var(--Brown-800);
+  font-weight: 700;
+}
+.section-nutrition table tr td:first-child {
+  padding-left: 30px;
+}
+/* Tablet - Desktop */
+@media (width > 767px) {
+  main {
+    padding: 3rem;
+    width: 90%;
+    margin-block: 4rem;
+    border-radius: 2rem;
+  }
+  main img {
+    border-radius: 1rem;
+  }
+  .container {
+    padding: 0;
+  }
+}
