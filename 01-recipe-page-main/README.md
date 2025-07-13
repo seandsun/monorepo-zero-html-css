@@ -5,7 +5,7 @@
 - HTML
 - CSS
 
-[Ver app🔗]()
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/01-recipe-page-main/)
 
 ![recipe page img demo](./assets/images/recipe-page-img.jpg)
 
