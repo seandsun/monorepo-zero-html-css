@@ -9,7 +9,7 @@ Un perfil de enlaces sociales, o social links profile, es una herramienta que pe
 
 [Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/02-social-links-profile-main/dist/)
 
-![recipe page img demo](./assets/images/social-links-profile.jpg)
+![social links profile img demo](./assets/images/social-links-profile.jpg)
 
 <div align="center">
   Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
