@@ -5,7 +5,7 @@
 - HTML
 - CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/03-blog-preview-card-main/)
 
 ![blog preview card img demo](./assets/images/blog-preview-card-img.jpg)
 
