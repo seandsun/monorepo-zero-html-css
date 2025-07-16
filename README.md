@@ -9,5 +9,6 @@ Monorepo para practicar HTML y CSS.
 1. [Página de recetas](https://seandsun.github.io/monorepo-zero-html-css/01-recipe-page-main/)
 2. [Perfil de enlaces sociales](https://seandsun.github.io/monorepo-zero-html-css/02-social-links-profile-main/dist/)
 3. [Tarjeta de vista previa del blog](https://seandsun.github.io/monorepo-zero-html-css/03-blog-preview-card-main/)
+4. [Componente de código QR](https://)
 
 <h3 align="center">< seandsun /></h3>
