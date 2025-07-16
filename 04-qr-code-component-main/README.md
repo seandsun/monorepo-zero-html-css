@@ -15,7 +15,7 @@ Un código QR sirve para almacenar y compartir información de forma rápida y e
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/04-qr-code-component-main/dist/)
 
 ![qr code component img demo](./assets/images/qr-code-component-img.jpg)
 
