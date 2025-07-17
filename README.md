@@ -10,6 +10,6 @@ Monorepo para practicar HTML y CSS.
 2. [Perfil de enlaces sociales](https://seandsun.github.io/monorepo-zero-html-css/02-social-links-profile-main/dist/)
 3. [Tarjeta de vista previa del blog](https://seandsun.github.io/monorepo-zero-html-css/03-blog-preview-card-main/)
 4. [Componente de código QR](https://seandsun.github.io/monorepo-zero-html-css/04-qr-code-component-main/dist/)
-5. [Componente de resumen de resultados](https://)
+5. [Componente de resumen de resultados](https://seandsun.github.io/monorepo-zero-html-css/05-results-summary-component-main/)
 
 <h3 align="center">< seandsun /></h3>

@@ -15,7 +15,7 @@ Un resumen de resultados es importante para los usuarios porque:
 - HTML
 - CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/05-results-summary-component-main/)
 
 ![results summary component img demo](./assets/images/results-summary-component-img.jpg)
 
