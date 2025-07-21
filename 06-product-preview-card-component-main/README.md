@@ -15,7 +15,7 @@ Un componente de tarjeta de vista previa de producto es útil por que:
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/06-product-preview-card-component-main/dist/)
 
 ![product preview card component img demo](./design/product-preview-card-component-img.jpg)
 
