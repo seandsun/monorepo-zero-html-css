@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="../assets/images/favicon-32x32.png"
+    />
+    <title>Product preview card component</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="bg-Cream font-Montserrat h-screen grid place-items-center">
+    <main>
+      <div
+        class="bg-White max-w-[343px] rounded-[10px] overflow-hidden sm:flex sm:max-w-[600px]"
+      >
+        <div class="sm:flex-1/2">
+          <picture class="sm:flex-1/2">
+            <source
+              media="(max-width:640px)"
+              srcset="../assets/images/image-product-mobile.jpg"
+            />
+            <source
+              media="(min-width:641px)"
+              srcset="../assets/images/image-product-desktop.jpg"
+            />
+            <img
+              src="../assets/images/image-product-mobile.jpg"
+              alt="Image of CHANEL'S GABRIELLE perfume"
+            />
+          </picture>
+        </div>
+        <div class="p-6 sm:flex-1/2 sm:p-8">
+          <p class="uppercase text-Grey tracking-[5px] text-xs mb-3 sm:mb-5">
+            Perfume
+          </p>
+          <h2 class="font-Fraunces text-[2rem]/[2rem] mb-4 sm:mb-6">
+            Gabrielle Essence Eau De Parfum
+          </h2>
+          <p class="text-sm text-Grey text-pretty mb-6">
+            A floral, solar and voluptuous interpretation composed by Olivier
+            Polge, Perfumer-Creator for the House of CHANEL.
+          </p>
+          <div class="flex gap-5 items-center mb-5">
+            <p class="font-Fraunces text-[2rem] text-Green-500">$149.99</p>
+            <p class="text-Grey text-sm line-through">$169.99</p>
+          </div>
+          <button
+            class="flex items-center justify-center gap-3 bg-Green-500 w-full p-4 text-white font-bold rounded-xl cursor-pointer hover:bg-Green-700"
+          >
+            <img src="../assets/images/icon-cart.svg" alt="Icon cart" />
+            <p>Add to Cart</p>
+          </button>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
