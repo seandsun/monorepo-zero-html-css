@@ -16,7 +16,7 @@ Un componente de tarjeta de vista previa es útil por que:
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/07-nft-preview-card-component-main/dist/)
 
 ![nft preview card component img demo](./design/nft-preview-card-component-img.jpg)
 
