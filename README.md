@@ -12,5 +12,6 @@ Monorepo para practicar HTML y CSS.
 4. [Componente de código QR](https://seandsun.github.io/monorepo-zero-html-css/04-qr-code-component-main/dist/)
 5. [Componente de resumen de resultados](https://seandsun.github.io/monorepo-zero-html-css/05-results-summary-component-main/)
 6. [Componente de tarjeta de vista previa del producto](https://seandsun.github.io/monorepo-zero-html-css/06-product-preview-card-component-main/dist/)
+7. [Componente de tarjeta de vista previa NFT](https://)
 
 <h3 align="center">< seandsun /></h3>
