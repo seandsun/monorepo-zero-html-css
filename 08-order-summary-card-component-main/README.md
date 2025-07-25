@@ -19,7 +19,7 @@ En resumen, un componente de tarjeta de resumen de pedido es una herramienta ese
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/08-order-summary-card-component-main/dist/)
 
 ![order summary card component img demo](./design/order-summary-card-component-img.jpg)
 
