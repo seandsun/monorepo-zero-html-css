@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400 700;
+  src: url('../assets/fonts/Inter/Inter-VariableFont_opsz-wght.ttf')
+    format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/lexend-deca/LexendDeca-VariableFont_wght.ttf')
+    format('truetype');
+  font-display: swap;
+}
+@theme {
+  /* Primary */
+  --color-Navy-950: hsl(233, 47%, 7%); /* main background */
+  --color-Blue-950: hsl(244, 37%, 16%); /* card background */
+  --color-Purple-500: hsl(277, 64%, 61%); /* accent */
+  /* Neutral */
+  --color-White: hsl(0, 0%, 100%); /* main heading, stats */
+  --color-White-transparent-100: hsla(0, 0%, 100%, 0.75); /* main paragraph */
+  --color-White-transparent-50: hsla(0, 0%, 100%, 0.6); /* stat, headings */
+  --font-Inter: 'Inter';
+  --font-Lexend-Deca: 'Lexend Deca';
+}
