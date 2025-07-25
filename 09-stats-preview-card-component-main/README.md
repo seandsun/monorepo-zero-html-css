@@ -21,7 +21,7 @@ Algunos ejemplos donde se pueden usar son en:
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/09-stats-preview-card-component-main/dist/)
 
 ![stats preview card component img demo](./design/stats-preview-card-component-img.jpg)
 

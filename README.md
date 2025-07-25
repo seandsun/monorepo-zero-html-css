@@ -14,6 +14,6 @@ Monorepo para practicar HTML y CSS.
 6. [Componente de tarjeta de vista previa del producto](https://seandsun.github.io/monorepo-zero-html-css/06-product-preview-card-component-main/dist/)
 7. [Componente de tarjeta de vista previa NFT](https://seandsun.github.io/monorepo-zero-html-css/07-nft-preview-card-component-main/dist/)
 8. [Componente de tarjeta de resumen de pedido](https://seandsun.github.io/monorepo-zero-html-css/08-order-summary-card-component-main/dist/)
-9. [Componente de tarjeta de vista previa de estadísticas](https://)
+9. [Componente de tarjeta de vista previa de estadísticas](https://seandsun.github.io/monorepo-zero-html-css/09-stats-preview-card-component-main/dist/)
 
 <h3 align="center">< seandsun /></h3>
