@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="../assets/images/favicon-32x32.png"
+    />
+    <title>Profile card component</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body
+    class="min-h-screen grid place-content-center bg-Blue-600 font-Kumbh-Sans overflow-hidden"
+  >
+    <img
+      class="absolute top-[-250px] left-[-250px] w-[622px] sm:w-[978px] sm:top-[-600px] sm:left-[-200px]"
+      src="../assets/images/bg-pattern-top.svg"
+      alt="background pattern top"
+    />
+    <img
+      class="absolute bottom-[-200px] right-[-250px] w-[622px] sm:w-[978px] sm:bottom-[-600px] sm:right-[-200px]"
+      src="../assets/images/bg-pattern-bottom.svg"
+      alt="background pattern bottom"
+    />
+    <main>
+      <div
+        class="max-w-[326px] bg-Gray-100 text-center rounded-2xl overflow-hidden relative sm:max-w-[350px]"
+      >
+        <img src="../assets/images/bg-pattern-card.svg" alt="background card" />
+        <img
+          class="rounded-full border-4 border-Gray-100 absolute top-20 left-0 right-0 m-auto"
+          src="../assets/images/image-victor.jpg"
+          alt="Victor profile image"
+        />
+        <div class="p-6 pt-[68px]">
+          <h2 class="text-lg font-bold mb-1">
+            Victor Crest
+            <span class="font-normal text-Gray-500 ml-1">26</span>
+          </h2>
+          <p class="text-Gray-500 text-sm">London</p>
+        </div>
+        <hr class="text-Gray-500/30" />
+        <div class="flex justify-between py-[23px] pl-11 pr-15">
+          <div>
+            <p class="text-lg font-bold">80K</p>
+            <p class="text-Gray-500 text-[10px] tracking-[.0938rem]">
+              Followers
+            </p>
+          </div>
+          <div>
+            <p class="text-lg font-bold">803K</p>
+            <p class="text-Gray-500 text-[10px] tracking-[.0938rem]">Likes</p>
+          </div>
+          <div>
+            <p class="text-lg font-bold">1.4K</p>
+            <p class="text-Gray-500 text-[10px] tracking-[.0938rem]">Photos</p>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
