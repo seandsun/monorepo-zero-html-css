@@ -15,7 +15,7 @@ Un componente de tarjeta de vista previa es útil por que:
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/10-3-column-preview-card-component-main/dist/)
 
 ![3 column preview card component img demo](./design/3-column-preview-card-component-img.jpg)
 
