@@ -7,7 +7,7 @@ Un componente de tarjeta de perfil sirve para **presentar de manera visual y org
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/11-profile-card-component-main/dist/)
 
 ![profile card component img demo](./design/profile-card-component-img.jpg)
 

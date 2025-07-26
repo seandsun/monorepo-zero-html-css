@@ -16,6 +16,6 @@ Monorepo para practicar HTML y CSS.
 8. [Componente de tarjeta de resumen de pedido](https://seandsun.github.io/monorepo-zero-html-css/08-order-summary-card-component-main/dist/)
 9. [Componente de tarjeta de vista previa de estadísticas](https://seandsun.github.io/monorepo-zero-html-css/09-stats-preview-card-component-main/dist/)
 10. [Componente de tarjeta de vista previa de 3 columnas](https://seandsun.github.io/monorepo-zero-html-css/10-3-column-preview-card-component-main/dist/)
-11. [Componente de tarjeta de perfil](https://)
+11. [Componente de tarjeta de perfil](https://seandsun.github.io/monorepo-zero-html-css/11-profile-card-component-main/dist/)
 
 <h3 align="center">< seandsun /></h3>
