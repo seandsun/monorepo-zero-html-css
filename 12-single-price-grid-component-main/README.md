@@ -15,7 +15,7 @@ En resumen, la organización en cuadrícula ayuda a los usuarios a encontrar lo 
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/12-single-price-grid-component-main/dist/)
 
 ![single price grid component img demo](./design/single-price-grid-component-img.jpg)
 
