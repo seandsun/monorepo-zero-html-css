@@ -25,7 +25,7 @@ En resumen, la página de inicio con una única sección introductoria es una he
 - HTML
 - Tailwind CSS
 
-[Ver app🔗](https://)
+[Ver app🔗](https://seandsun.github.io/monorepo-zero-html-css/13-huddle-landing-page-with-single-introductory-section-main/dist/)
 
 ![huddle landing page with single introductory section img demo](./design/huddle-landing-page-with-single-introductory-section.jpg)
 
